@@ -1,0 +1,9 @@
+comandos basicos git e bash
+
+"como navegar entre pastas dentro do gitbash"
+
+entrar na pasta = cd (comando para entrar na pasta)
+voltar uma pasta = cd.. 
+
+Ver conteudo da pasta
+ls (comando para ver o conteúdo da pasta)
