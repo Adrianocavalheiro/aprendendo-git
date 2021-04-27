@@ -7,3 +7,11 @@ voltar uma pasta = cd..
 
 Ver conteudo da pasta
 ls (comando para ver o conteúdo da pasta)
+
+-----------------------------------------------------------------------------------------
+
+passo a passo para enviar um commit para o repositório com comandos
+
+primeiro - git status
+segundo - git add arquivo
+terceiro - git push
