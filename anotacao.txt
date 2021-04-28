@@ -12,7 +12,7 @@ ls (comando para ver o conteúdo da pasta)
 
 passo a passo para enviar um commit para o repositório com comandos
 
-primeiro -git commit -m (nome do arquivo entre aspas)
-segundo - git status (verifica se tem algo para salvar)
-terceiro - git add arquivo (adiciona arquivo)
+primeiro - git status (verifica se tem algo para salvar)
+segundo - git add arquivo (adiciona arquivo)
+terceiro -git commit -m (nome do arquivo entre aspas)
 quarto - git push (manda pra nuvem)
