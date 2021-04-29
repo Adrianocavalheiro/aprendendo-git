@@ -36,3 +36,5 @@ git config --global --unset user.email (Comandos para limpar credenciais do git 
 
 git checkout -b <name> (comando para criar uma nova branch)
 git checkout <name> (vai para uma branch especifica)
+
+git push --set-upstream origin (Comando para dar push na main nova)
