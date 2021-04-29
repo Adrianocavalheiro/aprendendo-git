@@ -31,3 +31,7 @@ senha : data nascimento sem as barras.
 
 git config --global --unset user.name
 git config --global --unset user.email (Comandos para limpar credenciais do git do computador)
+
+-------------------------------------------------------------------------------------------
+
+git checkout -b (comando para criar uma nova branch)
